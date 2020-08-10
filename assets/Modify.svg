@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.635" height="12.803" viewBox="0 0 24.635 23.803">
+  <g id="makeCard" transform="translate(0 3.536)">
+    <line id="선_84" data-name="선 84" x1="13" y2="13" transform="translate(8.1)" fill="none" stroke="#dae220" stroke-linecap="round" stroke-width="5" opacity="0.884"/>
+    <g id="다각형_1" data-name="다각형 1" transform="translate(0 15.486) rotate(-17)" fill="#ea1d09" stroke-linecap="round">
+      <path d="M 5.116899967193604 4.5 L 0.8830999732017517 4.5 L 3 0.971833348274231 L 5.116899967193604 4.5 Z" stroke="none"/>
+      <path d="M 3 1.943650007247925 L 1.766190052032471 4 L 4.233809947967529 4 L 3 1.943650007247925 M 3 0 L 6 5 L 0 5 L 3 0 Z" stroke="none" fill="#f70909"/>
+    </g>
+  </g>
+</svg>
